@@ -21,7 +21,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/Sathish27072005/Political_speech
+git clone https://github.com/HARSHAWARTHANAN/Political_speech
 Install dependencies:
 
 
